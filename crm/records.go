@@ -511,7 +511,7 @@ type ConvertLeadData struct {
 			DealName       string  `json:"Deal_Name,omitempty"`
 			ClosingDate    string  `json:"Closing_Date,omitempty"`
 			Stage          string  `json:"Stage,omitempty"`
-			ScanStatus     string  `json:"Scan-Status,omitempty"`
+			ScanStatus     string  `json:"Scan_Status,omitempty"`
 			Amount         float64 `json:"Amount,omitempty"`
 			City           string  `json:"City,omitempty"`
 			AdminLink      string  `json:"Admin_Link,omitempty"`
